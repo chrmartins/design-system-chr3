@@ -1,0 +1,4 @@
+{
+  "extends": "@chr3-ui/ts-config/react.json",
+  "include": ["src"]
+}
